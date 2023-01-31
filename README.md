@@ -28,4 +28,15 @@ click here [AboutMe](AboutMe.md)
 | japan | japan is know for its best world class infrastructure | spent 10 days |
 | maladives | maladives is famous for romantic couple and also best weekend place | spent 10 days |
 | Italy | Italy is famous for its world class painting , water parks , suba diving | spent 7 days |
-    
+
+----
+# Quotes
+
+> Books are funny little portable pieces of thought *Susan Sontag*
+
+> I have many problems in my life. But my lips don't know that. They always smile *Charlie chaplin*
+
+
+
+
+
