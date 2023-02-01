@@ -54,5 +54,5 @@ click here [AboutMe](AboutMe.md)
   ```
 
 
-| [Link to the standard CSS Image](https://css-tricks.com/snippets/css/standard-css-image-replacement/)
+> [Link to the standard CSS Image](https://css-tricks.com/snippets/css/standard-css-image-replacement/)
 
