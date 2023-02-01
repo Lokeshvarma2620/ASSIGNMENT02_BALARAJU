@@ -42,14 +42,16 @@ click here [AboutMe](AboutMe.md)
 
 > h1#logo {
 
-   width: 200px; // width of image
+     width: 200px; // width of image
 
-   height: 100px; // height of image
+     height: 100px; // height of image
   
-   background: url(../path/to/image.jpg); 
+     background: url(../path/to/image.jpg); 
    
-   text-indent: -9999px;
-}
+     text-indent: -9999px;
+
+    }
+
 
 [Link to the standard CSS Image](https://css-tricks.com/snippets/css/standard-css-image-replacement/)
 
