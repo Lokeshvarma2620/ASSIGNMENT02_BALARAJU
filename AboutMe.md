@@ -11,7 +11,7 @@ I had recenlty completed my under graduation and joined in top mnc like HCL tech
 
 [Link to stackflow article](https://stackoverflow.com/questions/75303774/why-does-text-overflow-not-function-with-a-div-in-a-grid)
 
-...
+```
 
 
 <main>
@@ -55,7 +55,7 @@ main {
     }
 </style>
 
-...
+```
 
 [Link to stackflow article](https://stackoverflow.com/questions/75303774/why-does-text-overflow-not-function-with-a-div-in-a-grid)
 
