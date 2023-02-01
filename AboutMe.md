@@ -9,7 +9,8 @@ I had recenlty completed my under graduation and joined in top mnc like HCL tech
 ## code fencing section
 >modify Why does text-overflow not function with a div in a grid
 
-[Link to stackflow article](https://stackoverflow.com/questions/75303774/why-does-text-overflow-not-function-with-a-div-in-a-grid-css)
+[Link to stackflow article](https://stackoverflow.com/questions/75303774/why-does-text-overflow-not-function-with-a-div-in-a-grid)
+
 
 <main>
     <div class="container">
@@ -52,4 +53,7 @@ main {
     }
 </style>
 
-[Link to stackflow article](https://stackoverflow.com/questions/75303774/why-does-text-overflow-not-function-with-a-div-in-a-grid-css)
+
+[Link to stackflow article](https://stackoverflow.com/questions/75303774/why-does-text-overflow-not-function-with-a-div-in-a-grid)
+
+
