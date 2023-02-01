@@ -40,6 +40,3 @@ click here [AboutMe](AboutMe.md)
 
 [Link to stackflow article](https://stackoverflow.com/questions/75303774/why-does-text-overflow-not-function-with-a-div-in-a-grid)
 
-
-
-
