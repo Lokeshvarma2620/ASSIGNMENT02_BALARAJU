@@ -38,5 +38,14 @@ click here [AboutMe](AboutMe.md)
 
 ---
 
-[Link to stackflow article](https://stackoverflow.com/questions/75303774/why-does-text-overflow-not-function-with-a-div-in-a-grid)
+# Standard CSS Image Replacement
+
+> h1#logo {
+   width: 200px; // width of image
+   height: 100px; // height of image
+   background: url(../path/to/image.jpg); 
+   text-indent: -9999px;
+}
+
+[Link to the standard CSS Image](https://css-tricks.com/snippets/css/standard-css-image-replacement/)
 
