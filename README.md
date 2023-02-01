@@ -40,17 +40,18 @@ click here [AboutMe](AboutMe.md)
 
 # Standard CSS Image Replacement
 
-> h1#logo {
+```
+   h1#logo {
 
-     width: 200px; // width of image
-
-     height: 100px; // height of image
+       width: 200px; // width of image
   
-     background: url(../path/to/image.jpg); 
+        height: 100px; // height of image
    
-     text-indent: -9999px;
-
-    }
+         background: url(../path/to/image.jpg); 
+     
+         text-indent: -9999px;
+  } 
+  ```
 
 
 [Link to the standard CSS Image](https://css-tricks.com/snippets/css/standard-css-image-replacement/)
