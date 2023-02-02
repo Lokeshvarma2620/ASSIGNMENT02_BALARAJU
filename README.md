@@ -22,6 +22,9 @@ click here [AboutMe](AboutMe.md)
 
 ---
 ## Visited Tourist Countries
+ 
+> Country I prefer to visit 
+
 | Name of the country | Recommanded Country | Number of days spent |
 |---------------------|---------------------|----------------------|
 | America | America Life is Beautiful is an outdoor festival that takes place annually in downtown Las Vegas, Nevada. Since it first began in 2013, the festival has continued to gather momentum, and now, what started primarily as a hip-hop festival has expanded to include some of the best talent in classic rock, indie, and alternative rock | spent 15 days |
@@ -30,7 +33,7 @@ click here [AboutMe](AboutMe.md)
 | Italy | Italy is famous for its world class painting , water parks , suba diving | spent 7 days |
 
 ----
-# Quotes
+#  Funny Quotes
 
 > Books are funny little portable pieces of thought *Susan Sontag*
 
